@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <div className="flex bg-gray-950 text-white">
+        <div className="block lg:flex bg-gray-950 text-white">
           <Navbar />
 
           <Routes>
